@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Engranajes"
+title:  "HAZTE RICO MAÑANA"
 date:   2025-03-24 16:06:26 +0100
 categories: jekyll update
 ---
