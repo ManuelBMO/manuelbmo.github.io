@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "HAZTE RICO MAÑANA"
-date:   2027-01-06 16:06:26 +0100
+date:   2025-03-24 17:06:26 +0100
 categories: jekyll update
 ---
 
-Compra el 07935 y te harás rico.
+Compra el 07935 el 2026/01/03 para el sorteo del niño y te harás rico.
 
 
 
