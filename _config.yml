@@ -23,7 +23,7 @@ email: 4186651@alu.murciaeduca.es
 description: >- # this means to ignore newlines until "baseurl:"
   Esto es una descripcion yt muy buena ademas!!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://manuelbmo.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Elektropollo
 github_username:  manuelBMO
 
